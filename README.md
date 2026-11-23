@@ -9,7 +9,7 @@ A PHP library to work with immutable mathematical matrices of real numbers.
 
 ## Documentation
 
-The full documentation is at https://phpmath.github.io/matrix/. Every release is described on the [releases page](https://github.com/phpmath/matrix/releases).
+The full documentation is at https://phpmath.github.io/matrix/. Every change is listed in the [changelog](CHANGELOG.md) and every release on the [releases page](https://github.com/phpmath/matrix/releases).
 
 ## Install
 
